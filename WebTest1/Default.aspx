@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Prueba de codigo 2</h1>
-         <h1>María Laura</h1>
+        <h1>Prueba de codigo 3</h1>
+         
     </div>
 
     <div class="row">
